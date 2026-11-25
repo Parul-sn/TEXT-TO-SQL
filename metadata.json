@@ -1,0 +1,6 @@
+{
+  "name": "GraphSQL Studio",
+  "description": "Anomaly-aware multi-path Text-to-SQL workbench with 5-retry self-healing execution, column-level schema graphs, missing-value imputation, Spider benchmarking, and presentation reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
